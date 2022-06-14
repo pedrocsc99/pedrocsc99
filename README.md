@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Hi :wave: I'm Pedro cardoso and i'm a Web Developer.<br>I'm currently learning Node.js and React.js :books: .</h3>
+<h3 align="center">Hi :wave: I'm Pedro Carvalho and i'm a Web Developer.<br>I'm currently learning Node.js and React.js :books: .</h3>
 
 ###
 <div align="center">
