@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/pedro_csc_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="discordapp.com/users/Pedro Cardoso#6747" target="_blank">
+  <a href="https://discord.com/users/Pedro Cardoso#6747" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://pt.stackoverflow.com/users/293399/pedro-carvalho" target="_blank">
