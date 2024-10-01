@@ -33,9 +33,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pedrocsc99/pedrocsc99/output/snake.svg" alt="Snake animation" />
-
-###
